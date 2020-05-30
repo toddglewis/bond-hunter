@@ -1,5 +1,10 @@
+---
+title: README for "Bond Hunter"
+author: Todd Lewis <tlewis@brickabode.com>
+date: 30 May 2020
+---
 
-A game where you carry bonds and other people hunt you, inspired
+A game where you carry bonds and robbers hunt you, inspired
 by real life:
 
 ```
