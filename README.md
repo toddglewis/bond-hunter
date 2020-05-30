@@ -34,3 +34,4 @@ thanks to an informant.
 
 [[https://www.theguardian.com/uk/2002/feb/18/dome.ukcrime]]
 
+Patrick wants sharp sticks and rocket launchers.
